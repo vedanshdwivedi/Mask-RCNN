@@ -1,6 +1,8 @@
 # Mask-RCNN
 Basics and Hand-On 
-NOTE : All the actions and works have been done on Ubuntu Platform
+NOTE : All the actions and works have been done on Ubuntu Virtual Machine
+
+
 
 TO INSTALL Mask_RCNN : 
 
