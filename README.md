@@ -11,7 +11,11 @@ sudo su
 
 # git clone https://github.com/matterport/Mask_RCNN.git   (without '#')
 # cd Mask_RCNN
+# apt-get install python-pip
+# apt-get install python3-pip
+# hash -d pip [Incase of error with pip]
 # pip install -r requirements.txt 
+# pip3 install imgaug
 # python setup.py install
 # pip show mask-rcnn
 
